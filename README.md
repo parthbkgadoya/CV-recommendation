@@ -1,4 +1,6 @@
 # CV-recommendation
+Looking from a candidate's perspective, finding a job which matches his profile as well as interest is a challenging task. Hence, built a Model using Natural Language Processing and Data Analytics which can recommend the best job profile to a candidate based on his skills, past experiences, and projects mentioned in the resume. Also suggested skills which he needs to learn that are used in a market the most for any domain.
+25+ Teams participated from all over Gujarat in this 36-hour hackathon and the winning news were published in Divya Bhaskar newspaper.
 Input: Candidate’s CV, Target field of the candidate. 
 Output: Best sub-Job domain for the candidate, Recommendation of required skills for the target field
 
